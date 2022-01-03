@@ -1,0 +1,15 @@
+body {
+  background: rgb(192, 1, 192);
+  color: #0a0a0a;
+}
+h1{
+  text-align: center;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  
+
+}
+.icon{
+  margin: 5px;
+ 
+}
